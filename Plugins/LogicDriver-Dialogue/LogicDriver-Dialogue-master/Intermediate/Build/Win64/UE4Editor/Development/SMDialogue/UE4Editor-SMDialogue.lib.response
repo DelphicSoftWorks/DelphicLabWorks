@@ -1,0 +1,14 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-SMDialogue.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"E:\Editor_bay\Projects\Lab\ProjectAdom\Intermediate\Build\Win64\LogicDriverExampleEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"E:\Editor_bay\Projects\Lab\ProjectAdom\Plugins\LogicDriver-Dialogue\LogicDriver-Dialogue-master\Intermediate\Build\Win64\UE4Editor\Development\SMDialogue\Module.SMDialogue.cpp.obj"
+"E:\Editor_bay\Projects\Lab\ProjectAdom\Plugins\LogicDriver-Dialogue\LogicDriver-Dialogue-master\Intermediate\Build\Win64\UE4Editor\Development\SMDialogue\Module.SMDialogue.gen.cpp.obj"
+"E:\Editor_bay\Projects\Lab\ProjectAdom\Plugins\LogicDriver-Dialogue\LogicDriver-Dialogue-master\Intermediate\Build\Win64\UE4Editor\Development\SMDialogue\Default.rc2.res"
+/OUT:"E:\Editor_bay\Projects\Lab\ProjectAdom\Plugins\LogicDriver-Dialogue\LogicDriver-Dialogue-master\Intermediate\Build\Win64\UE4Editor\Development\SMDialogue\UE4Editor-SMDialogue.lib"
+/INCLUDE:IMPLEMENT_MODULE_SMDialogue

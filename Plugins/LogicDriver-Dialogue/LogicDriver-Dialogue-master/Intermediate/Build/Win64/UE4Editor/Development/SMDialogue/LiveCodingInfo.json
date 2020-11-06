@@ -1,0 +1,19 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.SMDialogue.cpp.obj": [
+			"SMDialogueChoiceNode.cpp.obj",
+			"SMDialogueNode.cpp.obj",
+			"SMDialogueTransition.cpp.obj",
+			"SMDialogueModule.cpp.obj",
+			"SMDialogueUtils.cpp.obj"
+		],
+		"Module.SMDialogue.gen.cpp.obj": [
+			"SMDialogue.init.gen.cpp.obj",
+			"SMDialogueChoiceNode.gen.cpp.obj",
+			"SMDialogueNode.gen.cpp.obj",
+			"SMDialogueTransition.gen.cpp.obj",
+			"SMDialogueUtils.gen.cpp.obj"
+		]
+	}
+}

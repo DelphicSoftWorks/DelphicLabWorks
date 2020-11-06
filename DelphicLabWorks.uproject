@@ -1,0 +1,470 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "4.25",
+	"Category": "",
+	"Description": "",
+	"Plugins": [
+		{
+			"Name": "ActionsExtension",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/2924990b22c1452aa20a21af60c4aa12"
+		},
+		{
+			"Name": "VariablesSystem",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/ba8559b2aa794f20b6e84e7ce338b96f"
+		},
+		{
+			"Name": "PTMTool",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/946185f2400d4be9b8d4190e95df86c8"
+		},
+		{
+			"Name": "AttributesExtension",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/1f0ba37099a14e228a1ce5e4891ed70a"
+		},
+		{
+			"Name": "AssetAssistant",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/b77ea233ba3748409cdc06601b2a7969"
+		},
+		{
+			"Name": "ElectronicNodes",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/5cb2a394d0c04e73891762be4cbd7216"
+		},
+		{
+			"Name": "LowEntryExtStdLib",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/846c2ad08f164f45b0335ecebf85361e"
+		},
+		{
+			"Name": "SKModularPlugin",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/7ddc89dc1f64458d89e585378119e5bc"
+		},
+		{
+			"Name": "ShutDownPlugin",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/e60557f517864abe8d631a25649ba2e2"
+		},
+		{
+			"Name": "SmoothSyncPlugin",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/c8f61b007fb44f4abcb7b0974cebff6b"
+		},
+		{
+			"Name": "StackBasedFSM",
+			"Enabled": true
+		},
+		{
+			"Name": "SurfaceFootstepSystem",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/d605a2cceb8546b39accf458c022b0df"
+		},
+		{
+			"Name": "UINavigation",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/4601ff4d12fc4ed1a7418e1585374a48"
+		},
+		{
+			"Name": "VaFogOfWar",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/cf7668a20dde4ef6937eaab417bf55cf"
+		},
+		{
+			"Name": "VaTexAtlasPlugin",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/ebd9356193134578975c8fdfa6878baf"
+		},
+		{
+			"Name": "VFCreator",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/5973943aa2424ea0a722be0720642e5e"
+		},
+		{
+			"Name": "WindowCapture2D",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/4ea251016c084e0da00e7392231e24b3"
+		},
+		{
+			"Name": "WindowsDialogBox",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/afaf67a9cd9c4f0ba57234884332dc34"
+		},
+		{
+			"Name": "XsollaPayments",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/f0f64dfd0d034226ada853f6f3d7c427"
+		},
+		{
+			"Name": "Xsolla",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/e32fb866a54a4a36a2359fb7a5251b59"
+		},
+		{
+			"Name": "HorizonUIPlugin",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/8b94d073d32443b497d4a9e8b1e210f7"
+		},
+		{
+			"Name": "MeshMorpherLite",
+			"Enabled": false,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/ea3b423e81494f0ea74e79101fcb9e72"
+		},
+		{
+			"Name": "MultiTask",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/9e26b2793e714ceab7cb53d9641bfa2d"
+		},
+		{
+			"Name": "NumbskullSerialization",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/c2bed233e0774bf38722279c605e8a36"
+		},
+		{
+			"Name": "OptickPlugin",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/95c078f6fa924b2b82fd8f281e04850f"
+		},
+		{
+			"Name": "RadialMenu",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/be623df092c442609c20a840630031fb"
+		},
+		{
+			"Name": "Restart",
+			"Enabled": false,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/1bf89025ddf246e3af3c196d0426e0d3"
+		},
+		{
+			"Name": "SCUE4",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/cff7ca410375488fb0d13221b7446041"
+		},
+		{
+			"Name": "ShadowMocap",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/b88abab9ae674f4cac80a47019cb0da5"
+		},
+		{
+			"Name": "SSZCode",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher: //ue/marketplace/product/8567b25b067e43408e4d9a867ad7dcfe"
+		},
+		{
+			"Name": "VoxelFree",
+			"Enabled": false,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/c61d1941c8664436be42d649404a10e0"
+		},
+		{
+			"Name": "TransformationActorsPlugin",
+			"Enabled": false,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/e45b06e00615453c8880ffeda1b6f5f7"
+		},
+		{
+			"Name": "ThumbnailerLite",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/d2c5ab29e4b54f5ea707fe691d0c9d35"
+		},
+		{
+			"Name": "GFur",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/297af0966aaa4c379df88b4f1563e3c5"
+		},
+		{
+			"Name": "MidiAsset",
+			"Enabled": false,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/aff69119f95d405abbab38236e258c2e"
+		},
+		{
+			"Name": "WebBrowserWidget",
+			"Enabled": true
+		},
+		{
+			"Name": "WebBrowserNativeProxy",
+			"Enabled": true
+		},
+		{
+			"Name": "Text3D",
+			"Enabled": true
+		},
+		{
+			"Name": "SequencerScripting",
+			"Enabled": true
+		},
+		{
+			"Name": "PythonScriptPlugin",
+			"Enabled": true
+		},
+		{
+			"Name": "Volumetrics",
+			"Enabled": true
+		},
+		{
+			"Name": "ApexDestruction",
+			"Enabled": true
+		},
+		{
+			"Name": "WebAuth",
+			"Enabled": true
+		},
+		{
+			"Name": "SunPosition",
+			"Enabled": true
+		},
+		{
+			"Name": "SlateRemote",
+			"Enabled": true
+		},
+		{
+			"Name": "DataCharts",
+			"Enabled": true
+		},
+		{
+			"Name": "AlembicHairImporter",
+			"Enabled": true
+		},
+		{
+			"Name": "FieldSystemPlugin",
+			"Enabled": true
+		},
+		{
+			"Name": "HairStrands",
+			"Enabled": true
+		},
+		{
+			"Name": "ScriptPlugin",
+			"Enabled": true
+		},
+		{
+			"Name": "BlankPlugin",
+			"Enabled": true
+		},
+		{
+			"Name": "BlastPlugin",
+			"Enabled": true
+		},
+		{
+			"Name": "StaticMeshEditorExtension",
+			"Enabled": true
+		},
+		{
+			"Name": "ModelingToolsEditorMode",
+			"Enabled": true
+		},
+		{
+			"Name": "DisasterRecoveryClient",
+			"Enabled": true
+		},
+		{
+			"Name": "SampleToolsEditorMode",
+			"Enabled": true
+		},
+		{
+			"Name": "MultiUserClient",
+			"Enabled": true
+		},
+		{
+			"Name": "DataprepEditor",
+			"Enabled": true
+		},
+		{
+			"Name": "RemoteDatabaseSupport",
+			"Enabled": true
+		},
+		{
+			"Name": "BlueprintFileUtils",
+			"Enabled": true
+		},
+		{
+			"Name": "BlueprintMaterialTextureNodes",
+			"Enabled": true
+		},
+		{
+			"Name": "BlueprintStats",
+			"Enabled": true
+		},
+		{
+			"Name": "Gauntlet",
+			"Enabled": true
+		},
+		{
+			"Name": "ResonanceAudio",
+			"Enabled": true
+		},
+		{
+			"Name": "SoundVisualizations",
+			"Enabled": true
+		},
+		{
+			"Name": "SoundUtilities",
+			"Enabled": true
+		},
+		{
+			"Name": "SoundMod",
+			"Enabled": true
+		},
+		{
+			"Name": "SoundCueTemplates",
+			"Enabled": true
+		},
+		{
+			"Name": "AudioSynesthesia",
+			"Enabled": true
+		},
+		{
+			"Name": "AudioModulation",
+			"Enabled": true
+		},
+		{
+			"Name": "Spatialization",
+			"Enabled": true
+		},
+		{
+			"Name": "AnimDistanceMatching",
+			"Enabled": true
+		},
+		{
+			"Name": "ControlRig",
+			"Enabled": true
+		},
+		{
+			"Name": "AnalyticsMulticast",
+			"Enabled": true
+		},
+		{
+			"Name": "Flurry",
+			"Enabled": true
+		},
+		{
+			"Name": "AnalyticsBlueprintLibrary",
+			"Enabled": true
+		},
+		{
+			"Name": "HTNPlanner",
+			"Enabled": true
+		},
+		{
+			"Name": "SMSystem",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/9d8db9962594400988f8ddd3fb83cd88"
+		},
+		{
+			"Name": "SMDialogue",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/9d8db9962594400988f8ddd3fb83cd88"
+		},
+		{
+			"Name": "LDAssistant",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/51c5a9a0d5f84beba23aab69bed8d28c"
+		},
+		{
+			"Name": "NinjaCharacter",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/d91461c6f5544d118198d6acaddb48e8"
+		},
+		{
+			"Name": "FactionsExtension",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/29a33bd0c38e4b8f9626f495bb47dca8"
+		},
+		{
+			"Name": "AzureSpatialAnchors",
+			"Enabled": true,
+			"SupportedTargetPlatforms": [
+				"Win64",
+				"HoloLens",
+				"Android",
+				"iOS"
+			]
+		},
+		{
+			"Name": "FormatString",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/c1abf895ea8c4d658d0c9941459904c0"
+		},
+		{
+			"Name": "DynamicNode",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/cd1d7307bccc40f69213e5d3e0d349d1"
+		},
+		{
+			"Name": "DazToUnreal",
+			"Enabled": true
+		},
+		{
+			"Name": "VariantManager",
+			"Enabled": true
+		},
+		{
+			"Name": "TraceDataFilters",
+			"Enabled": true
+		},
+		{
+			"Name": "ShallowWater",
+			"Enabled": true
+		},
+		{
+			"Name": "Takes",
+			"Enabled": true
+		},
+		{
+			"Name": "VICODynamicsPlugin",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/6d874b00b82d4eae9ae472ff843d5af3"
+		},
+		{
+			"Name": "RidingSystem",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/ea9cd0581e6949d9ab103f15f405bc59"
+		},
+		{
+			"Name": "ObjectInspection",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/3193610f35bd41e0bd9063dbd8e7ad23"
+		},
+		{
+			"Name": "SnapSystem",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/fa834687594944f5aafe2be8b44ad3f1"
+		},
+		{
+			"Name": "MantlingSystem",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/b4f52bfbc42745aa9329f5d2824fb3c2"
+		},
+		{
+			"Name": "Linter",
+			"Enabled": false,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/ca0639af6339476da86fa3bcf15de8ec"
+		},
+		{
+			"Name": "FixItNotePlugin",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/753fba93b8ef4a6a8a1fbcd77f68bfaa"
+		},
+		{
+			"Name": "DonationAlerts",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/9e8637743af0425fb6b53e4e9648827c"
+		},
+		{
+			"Name": "AdvancedFadeObjects",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/5797fa36906648ba8ffdeb6ee94c903e"
+		},
+		{
+			"Name": "UFSM",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/195d90d8cedf4b478a92036c059e2374"
+		},
+		{
+			"Name": "ModuleGeneration",
+			"Enabled": true,
+			"MarketplaceURL": "https://www.unrealengine.com/marketplace/en-US/product/new-c-module-tool"
+		}
+	]
+}
